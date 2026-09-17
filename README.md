@@ -27,31 +27,6 @@ The system provides APIs for managing events, user registrations, and registrati
 * **JWT Authentication**
 * **Git & GitHub**
 
-## 📁 Project Structure
-
-```text
-CodeAlpha_Event-Registration-System/
-│
-├── manage.py
-├── requirements.txt
-├── .env.example
-├── .gitignore
-├── README.md
-│
-├── project/
-│   ├── settings.py
-│   ├── urls.py
-│   └── ...
-│
-└── events/
-    ├── models.py
-    ├── serializers.py
-    ├── views.py
-    ├── urls.py
-    └── ...
-```
-
-> The project structure may vary depending on the implementation.
 
 ## ⚙️ Installation & Setup
 
